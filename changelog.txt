@@ -1,0 +1,74 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.2.0
+Date: 2020.10.25
+  Integration:
+    - 10 science pack override(21-30) 30/30
+  Gamebalance:
+    - Frame crafting time reduced
+    - Changed recipe for heat resistant frames
+  Extension:
+    - High Technology frames (5 tier)
+  Bugfix:
+    - fixed bug in technology dependency
+---------------------------------------------------------------------------------------------------
+Version: 1.1.6
+Date: 2020.10.20
+  Gamebalance:
+    - Crude oil now has less heat capacity
+    - Now the cost of the floatation cell recipe is cheaper
+    - Now the recipe for carbon monoxide is easier to get
+---------------------------------------------------------------------------------------------------
+Version: 1.1.5
+Date: 2020.10.09
+  Integration:
+    - 4 science pack override (17-20) 20/30
+  Other:
+    - Nuclear reactror and centrifuge require frames
+  Bugfix:
+    - Now capacitor-2 is possible to create
+    - Now number of received science packs fixed
+---------------------------------------------------------------------------------------------------
+Version: 1.1.4
+Date: 2020.10.04
+  Integration:
+    - 4 science pack override (13-16) 16/30
+    - new technology tree for science packs
+  Gamebalance:
+    - solid fuel and enriched solid fuel now has less heat capacity
+  Bugfix:
+    - Now all items can be crafted with global angel overide (angelsmods.trigger.smelting_products["enable-all"] = true)
+    - Now science pack 8 10  can be crafted when angel mods are disabled
+---------------------------------------------------------------------------------------------------
+Version: 1.1.3
+Date: 2020.09.19
+  Integration:
+    - 4 science pack override (9-12) 12/30
+  Bugfix:
+    - Now science pack 8 can be crafted in advanced chemistry plant
+---------------------------------------------------------------------------------------------------
+Version: 1.1.2
+Date: 2020.09.19
+  Bugfix:
+    - Fixed a bug when the mod did not start without alien artifacts.
+    - Now you don't need science pack 4 to open science pack's 4 recipe 
+---------------------------------------------------------------------------------------------------
+Version: 1.1.1
+Date: 2020.09.18
+  Integration:
+    - Now overriden science packs from mod 30 science pack can be created without resources from angel (if you play without it) .
+    - 4 science pack override(5-8) 8/30
+  Other:
+    - Chagnelog created.
+---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 2020.09.17
+  Integration:
+    - Now the angel is not required.
+    - Changed and removed some unused recipes when playing without an angel.
+  Bugfix:
+    - angel-wire-gold (non-crafted) replaces glided-copper-wire in recipes.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2020.09.16
+  General:
+    - New mod created.

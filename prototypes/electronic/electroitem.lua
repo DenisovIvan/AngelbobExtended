@@ -1,0 +1,8 @@
+AngelBobExtended.recipe.create_subgroup("ABEelectro",1,"bob-intermediate-products")
+AngelBobExtended.item.create_item("capacitor","ABEelectro1")
+AngelBobExtended.item.create_item("capacitor-2","ABEelectro1")
+AngelBobExtended.item.create_item("quantum1","ABEelectro1")
+AngelBobExtended.item.create_item("quantum2","ABEelectro1")
+AngelBobExtended.item.create_item("quantum3","ABEelectro1")
+AngelBobExtended.item.create_item("quantum4","ABEelectro1")
+AngelBobExtended.item.create_item("quantum5","ABEelectro1")

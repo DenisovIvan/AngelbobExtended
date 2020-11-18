@@ -1,0 +1,1 @@
+if not AngelBobExtended then AngelBobExtended = {} end
